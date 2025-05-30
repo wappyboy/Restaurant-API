@@ -7,8 +7,8 @@ use PDOException;
 class Database {
     private static $host = 'localhost';
     private static $dbName = 'restaurant_api';
-    private static $username = 'root'; // change to your DB user
-    private static $password = 'Rapeco!23';     // change to your DB password
+    private static $username = 'root'; 
+    private static $password = 'Rapeco!23';     
     private static $conn;
 
     /**

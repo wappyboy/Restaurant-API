@@ -1,7 +1,7 @@
 <?php
 // Include all necessary files
 require_once __DIR__ . '/src/Helpers.php';
-require_once __DIR__ . '/src/Database.php';          // <--- Add this
+require_once __DIR__ . '/src/Database.php';         
 require_once __DIR__ . '/src/Models/Restaurant.php';
 require_once __DIR__ . '/src/Models/MenuItem.php';
 require_once __DIR__ . '/src/Controllers/RestaurantController.php';
